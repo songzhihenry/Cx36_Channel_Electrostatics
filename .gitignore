@@ -210,3 +210,6 @@ __marimo__/
 *.docx
 *.pptx
 *.pdf
+
+# MacOS files
+.DS_Store
