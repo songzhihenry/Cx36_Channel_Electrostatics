@@ -213,3 +213,5 @@ __marimo__/
 
 # MacOS files
 .DS_Store
+# PyMol file
+*.pse
